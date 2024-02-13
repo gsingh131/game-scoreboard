@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color:#1B244A;
+    
+
+}
+
+h3{
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#home-score{
+    vertical-align: middle;
+    font-family: "Orbitron", sans-serif;
+    font-size: 80px;
+    color: red;
+    background-color: black;
+    width: 175px;
+    height: 120px;
+    border-radius: 5px;
+    margin-top: -30px;
+    margin-bottom: 15px;
+    
+}
+
+#guest-score{
+      
+    vertical-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 80px;
+    color: red;
+    background-color: black;
+    width: 175px;
+    height: 120px;
+    border-radius: 5px;
+    margin-top: -30px;
+    margin-bottom: 15px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    font-family: "Orbitron", sans-serif;
+    font-size: 18px;
+    height: 45px;
+    width: 45px;
+    border: 2px #9AABD8 solid;
+    color: #9AABD8;
+    background-color: #1B244A;
+    border-radius: 5px;
+}
+
